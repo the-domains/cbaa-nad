@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CBAA NAD]]></title>
+        <description><![CDATA[CBAA NAD]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 15:52:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> National Aggregate Database Launched! </p>]]></description>
+            <link>undefinednational-aggregate-database-launched/index.html</link>
+            <guid isPermaLink="false">fb4ebc77-2619-4b1b-98ff-52aaa1f549d5</guid>
+            <pubDate>Wed, 17 Aug 2016 15:52:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
