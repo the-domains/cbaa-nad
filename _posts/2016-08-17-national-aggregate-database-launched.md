@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' National Aggregate Database Launched! '
-datePublished: '2016-08-17T16:03:40.812Z'
-dateModified: '2016-08-17T16:01:12.496Z'
+datePublished: '2016-08-17T16:06:08.360Z'
+dateModified: '2016-08-17T16:03:47.907Z'
 title: ''
 author: []
 via: {}
