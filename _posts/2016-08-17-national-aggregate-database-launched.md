@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' National Aggregate Database Launched! '
-datePublished: '2016-08-17T15:52:33.461Z'
-dateModified: '2016-08-17T15:49:22.165Z'
+datePublished: '2016-08-17T16:03:40.812Z'
+dateModified: '2016-08-17T16:01:12.496Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-17-national-aggregate-database-launched.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-17-national-aggregate-database-launched.md
 url: national-aggregate-database-launched/index.html
 _type: Article
 
